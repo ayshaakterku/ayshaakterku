@@ -112,5 +112,51 @@
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
+<!-- GitHub Stats + Top Languages -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayshaakterku&show_icons=true&theme=tokyon_
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ayshaakterku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+    alt="Aysha's GitHub Stats"
+  />
+
+<img 
+ src="https://github-readme-stats.vercel.app/api/top-langs?username=ayshaakterku&layout=compact&theme=tokyonight&hide_border=true"
+ height="180"
+ alt="Aysha's Top Languages"
+/>
+
+</p>
+
+<!-- Contribution Streak -->
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=ayshaakterku&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="Aysha's GitHub Streak"
+  />
+</p>
+
+<!-- Activity Graph -->
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ayshaakterku&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+    alt="Aysha's GitHub Activity Graph"
+  />
+</p>
+
+<!-- Contribution Snake -->
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/ayshaakterku/ayshaakterku/output/github-contribution-grid-snake-dark.svg"
+    width="95%"
+    alt="GitHub Contribution Snake"
+  />
+</p>
