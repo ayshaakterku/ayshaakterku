@@ -1,3 +1,4 @@
+ 
 <!-- ======================= BANNER ======================= -->
 
 <!-- ======================= ANIMATED BANNER ======================= -->
@@ -17,11 +18,14 @@
 </p>
 
 <p align="center">
-  <a href="https://fitlogwebbyaysha.vercel.app">
-    <img src="https://img.shields.io/badge/🚀_Current_Project-FitLog-7F00FF?style=for-the-badge&logoColor=white" />
+  <a href="https://ayshaportfolio-iota.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-7F00FF?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://booknook-frontend-rho.vercel.app">
+    <img src="https://img.shields.io/badge/📚_Latest_Project-BookNook-00C6FF?style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:ayshaku11@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Let's_Connect-00C6FF?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_Let's_Connect-00F5A0?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
@@ -33,10 +37,12 @@
   Passionate Full Stack Web Developer from Bangladesh 🇧🇩
 </h3>
 
-
 <p align="center">
-  <a href="https://fitlogwebbyaysha.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Project-FitLog-6C63FF?style=for-the-badge" />
+  <a href="https://ayshaportfolio-iota.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7F00FF?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayshaakter-ku" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ayshaku11@gmail.com">
     <img src="https://img.shields.io/badge/Email-ayshaku11%40gmail.com-00C6FF?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -47,10 +53,11 @@
 
 ## 👩‍💻 About Me
 
-* 🔭 Currently working on **[FitLog – Workout Library](https://fitlogwebbyaysha.vercel.app)**
+* 🔭 Currently working on **[BookNook – Online Library Management System](https://booknook-frontend-rho.vercel.app)**
 * 🌱 Currently learning **Next.js & Better Auth**
 * 💻 Passionate about building **modern, responsive and user-friendly web applications**
 * 💬 Ask me about **Full Stack Web Development**
+* 🌐 Explore my **[Portfolio Website](https://ayshaportfolio-iota.vercel.app)**
 * 📫 Reach me at **[ayshaku11@gmail.com](mailto:ayshaku11@gmail.com)**
 * ⚡ Fun fact: **I enjoy turning ideas into real-world web applications.**
 
@@ -100,6 +107,12 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://ayshaportfolio-iota.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayshaakter-ku" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:ayshaku11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -110,7 +123,27 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Live Projects
+
+<p align="left">
+  <a href="https://booknook-frontend-rho.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/BookNook-Online_Library-7F00FF?style=for-the-badge" />
+  </a>
+  <a href="https://bazar-dor-a07-3.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/BazarDor-Market_Price_Tracker-00C6FF?style=for-the-badge" />
+  </a>
+  <a href="https://fitlogwebbyaysha.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/FitLog-Workout_Library-00C853?style=for-the-badge" />
+  </a>
+  <a href="https://moviesexplorer11.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/MovieExplorer-Movie_Discovery-EA4335?style=for-the-badge" />
+  </a>
+  <a href="https://devstackwebbuild-aysha.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/DevStack-Tech_Stack_Builder-FF9800?style=for-the-badge" />
+  </a>
+</p>
+
+---
 
 ## 📊 GitHub Statistics
 
